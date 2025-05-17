@@ -4,7 +4,6 @@ int main() {
     char name[50];
     int units;
     float amount = 0, surcharge = 0, total = 0;
-
     printf("Enter user name: ");
     scanf("%s", name);
     printf("Enter units consumed: ");
