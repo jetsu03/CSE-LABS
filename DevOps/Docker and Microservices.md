@@ -1,7 +1,3 @@
-## **EXP-3: Microservice App using Docker Compose**
-
----
-
 ## **Step 1: Project Folder Structure**
 
 Create the following folder structure:
