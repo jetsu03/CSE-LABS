@@ -1,6 +1,6 @@
 ### 🔧 1. Prerequisite: Create the Maven-based project
 
-* Create the Maven-based project as in EXP-5:
+* Create the Maven-based project as given previously:
 
   ```bash
   mvn archetype:generate -DgroupId=com.example -DartifactId=demo-project -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
@@ -37,7 +37,7 @@ gradle -v
 
 ---
 
-### 🗂5. Add the following files in `demo-project/` folder:
+### 5. Add the following files in `demo-project/` folder:
 
 ---
 
