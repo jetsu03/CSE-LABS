@@ -96,4 +96,3 @@ git config --list                      # Verify your configuration
    git checkout main
    git merge new-feature
    ```
-
